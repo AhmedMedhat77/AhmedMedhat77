@@ -2,8 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Ahmed MEdhat</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Medhat</h1>
+<h3 align="center">Hi I'm a self taught Front-End Web Developer seeking developing my personal skills and building my dream projects </h3>
 
 <p align="left"> <img srca="https://komarev.com/ghpvc/?username=ahmedmedhat77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmedhat77" /> </p>
 
