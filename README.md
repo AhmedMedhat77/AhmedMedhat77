@@ -7,7 +7,7 @@
 
 <p align="left"> <img srca="https://komarev.com/ghpvc/?username=ahmedmedhat77&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmedhat77" /> </p>
 
-- 🌱 I’m currently learning **Next.js , Vue.js , Node.js**
+- 🌱 I’m currently learning **Svelte.js , Vue.js , Node.js , MongoDb**
 
 - 💬 Ask me about **React.js**
 ![image](https://user-images.githubusercontent.com/75226176/220301003-ab4afb41-5658-4f5a-8190-e26f8ff32c84.gif)
