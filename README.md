@@ -21,12 +21,14 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** and
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
@@ -41,7 +43,10 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** and
 
 ### State Management & Libraries
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![TanStack Router](https://img.shields.io/badge/TanStack_Router-00D8FF?style=for-the-badge&logo=react&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,8 +92,10 @@ const ahmed = {
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux"],
-            css: ["Tailwind CSS", "Bootstrap", "Styled Components"]
+            js: ["React", "Next.js", "Redux", "Zustand"],
+            css: ["Tailwind CSS", "Material UI", "Bootstrap", "Styled Components"],
+            routing: ["TanStack Router", "React Router"],
+            dataFetching: ["TanStack Query", "Axios", "Fetch API"]
         },
         backEnd: {
             js: ["Node.js", "Express"],
@@ -96,9 +103,9 @@ const ahmed = {
         },
         mobile: ["React Native", "Expo"],
         tools: ["Git", "GitHub", "VS Code", "Postman"],
-        architecture: ["REST APIs", "MVC Pattern", "Component Architecture"]
+        architecture: ["REST APIs", "MVC Pattern", "Component Architecture", "Server-Side Rendering"]
     },
-    currentlyLearning: ["GraphQL", "Next.js", "Docker", "AWS"],
+    currentlyLearning: ["AWS", "Microservices"],
     funFact: "I debug with console.log more than I'd like to admit 😅"
 };
 ```
@@ -114,7 +121,6 @@ const ahmed = {
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-medhat-2a4b45217)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmedmedhat24)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ahmedmedhat77)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahmed.medaht1407@gmail.com)
 
