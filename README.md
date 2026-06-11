@@ -1,52 +1,68 @@
 # Hi there, I'm Ahmed Medhat 👨‍💻
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+MERN+Developer;Mobile+App+Developer;React+Native+Specialist;Building+Digital+Solutions)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full-Stack+Software+Engineer;React+%7C+Angular+%7C+NestJS;React+Native+Developer;PostgreSQL+%7C+SQL+Server+Architect;Building+Scalable+SaaS+Solutions)](https://git.io/typing-svg)
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** and **Mobile Development** with React Native. I love crafting efficient, scalable solutions and turning ideas into reality through clean, maintainable code.
+I'm a passionate **Full-Stack Software Engineer** with expertise in building scalable web, mobile, and enterprise applications using modern TypeScript technologies.
 
-- 🔭 Currently working on full-stack web applications and mobile apps
-- 🌱 Expanding my expertise in **Advanced Node.js**, **GraphQL**, and **DevOps**
-- 💡 Passionate about creating seamless user experiences across web and mobile platforms
-- 🎯 Goal: Building impactful digital solutions that solve real-world problems
-- 💬 Ask me about **React.js**, **Node.js**, **React Native**, or **MongoDB**
+I specialize in designing robust backend systems with NestJS, developing high-performance frontends with React and Angular, and creating cross-platform mobile applications using React Native.
+
+- 🔭 Building enterprise SaaS, ERP, and HR systems
+- 🌱 Exploring Microservices, Cloud Architecture, and AI Integration
+- 💡 Passionate about scalable software architecture and clean code
+- 🏗️ Experienced with Multi-Tenant Systems and Enterprise Applications
+- 📱 Developing production-ready React Native applications
+- 🎯 Focused on performance, maintainability, and developer experience
+- 💬 Ask me about React, Angular, NestJS, PostgreSQL, SQL Server, and React Native
 - 📫 Reach me at: **Ahmed.medaht1407@gmail.com**
 
 ## 🛠️ Tech Stack
 
 ### Frontend
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
 
 ### Mobile Development
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
-### State Management & Libraries
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![TanStack Router](https://img.shields.io/badge/TanStack_Router-00D8FF?style=for-the-badge&logo=react&logoColor=white)
+
+### Architecture & DevOps
+
+![Multi Tenant](https://img.shields.io/badge/Multi--Tenant-SaaS-blue?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-Architecture-green?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,34 +103,73 @@ I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack** and
 
 ## 💼 What I Do
 
-```javascript
+```typescript
 const ahmed = {
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Redux", "Zustand"],
-            css: ["Tailwind CSS", "Material UI", "Bootstrap", "Styled Components"],
-            routing: ["TanStack Router", "React Router"],
-            dataFetching: ["TanStack Query", "Axios", "Fetch API"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            database: ["MongoDB", "Mongoose"]
-        },
-        mobile: ["React Native", "Expo"],
-        tools: ["Git", "GitHub", "VS Code", "Postman"],
-        architecture: ["REST APIs", "MVC Pattern", "Component Architecture", "Server-Side Rendering"]
-    },
-    currentlyLearning: ["AWS", "Microservices"],
-    funFact: "I debug with console.log more than I'd like to admit 😅"
+  role: "Full-Stack Software Engineer",
+
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "SQL"
+  ],
+
+  frontend: {
+    frameworks: [
+      "React",
+      "Angular",
+      "Next.js"
+    ],
+    mobile: [
+      "React Native",
+      "Expo"
+    ]
+  },
+
+  backend: {
+    frameworks: [
+      "NestJS",
+      "Express.js"
+    ],
+    architecture: [
+      "REST APIs",
+      "Microservices",
+      "Multi-Tenant SaaS",
+      "Clean Architecture"
+    ]
+  },
+
+  databases: [
+    "PostgreSQL",
+    "SQL Server",
+    "MongoDB"
+  ],
+
+  orm: [
+    "Drizzle ORM",
+    "Mongoose"
+  ],
+
+  currentlyBuilding: [
+    "HR Management Systems",
+    "ERP Platforms",
+    "Multi-Tenant SaaS Applications"
+  ],
+
+  currentlyLearning: [
+    "AWS",
+    "Kubernetes",
+    "Event-Driven Architecture"
+  ]
 };
-```
+```  
 
 ## 🎯 Current Projects
 
-- 🌐 **Full-Stack E-commerce Platform** - MERN stack with payment integration
-- 📱 **Cross-Platform Mobile App** - React Native with real-time features
-- 🔧 **Developer Portfolio Website** - Showcasing my journey and projects
+- 🏢 Multi-Tenant HR Management System using NestJS & PostgreSQL
+- 📦 Modular ERP Platform with Branch & Warehouse Management
+- 📱 Cross-Platform React Native Mobile Applications
+- 🌐 Enterprise Angular & React Web Applications
+- ⚡ High-Performance REST APIs with NestJS and Drizzle ORM
 
 ## 🌐 Connect With Me
 
@@ -141,5 +196,13 @@ const ahmed = {
 ### ⭐️ From [Ahmed Medhat](https://github.com/ahmedmedhat77)
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
+
+<div align="center">
+
+### 💡 Building scalable software, one commit at a time.
+
+⭐ If you like my work, consider following me and checking out my repositories.
 
 </div>
