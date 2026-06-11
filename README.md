@@ -84,22 +84,6 @@ I specialize in designing robust backend systems with NestJS, developing high-pe
 
 [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmedhat77&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmedhat77&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedmedhat77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ## 💼 What I Do
 
 ```typescript
