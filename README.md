@@ -20,12 +20,11 @@ I specialize in designing robust backend systems with NestJS, developing high-pe
 - 🎯 Focused on performance, maintainability, and developer experience
 - 💬 Ask me about React, Angular, NestJS, PostgreSQL, SQL Server, and React Native
 - 📫 Reach me at: **Ahmed.medaht1407@gmail.com**
+-    Personal portofolio **https://ahmedjs.com**
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-### Frontend
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -85,11 +84,11 @@ I specialize in designing robust backend systems with NestJS, developing high-pe
 
 [![Ahmed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmedhat77&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmedhat77&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmedhat77&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
